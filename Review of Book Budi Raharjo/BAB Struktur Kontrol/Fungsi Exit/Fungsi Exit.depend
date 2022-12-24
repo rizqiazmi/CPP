@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664696374 source:c:\users\rizqi\desktop\c++\budi raharjo\fungsi exit\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+

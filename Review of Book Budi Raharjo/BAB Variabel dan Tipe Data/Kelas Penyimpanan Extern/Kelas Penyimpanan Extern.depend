@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663225468 source:c:\users\rizqi\desktop\c++\budi raharjo\kelas penyimpanan extern\extern.cpp
+
+1663225946 source:c:\users\rizqi\desktop\c++\budi raharjo\kelas penyimpanan extern\main.cpp
+	<iostream>
+	"extern.h"
+
+1663225853 c:\users\rizqi\desktop\c++\budi raharjo\kelas penyimpanan extern\extern.cpp
+
+1663225972 c:\users\rizqi\desktop\c++\budi raharjo\kelas penyimpanan extern\extern.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664259783 source:c:\users\rizqi\desktop\c++\budi raharjo\switch\switch\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
